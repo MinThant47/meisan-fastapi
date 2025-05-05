@@ -1,0 +1,28 @@
+မေး: Mechatronic မေဂျာမှာ ဘာတွေကို အဓိက သင်ကြားသလဲ?
+ဖြေ: Mechanical Design, Electronics, Control Systems, Robotics, PLC Programming, Automation Systems နဲ့ Embedded Systems စတဲ့ interdisciplinary subjects တွေကို သင်ကြားတယ်။ Mechanical နဲ့ Electrical ကိုပေါင်းပြီး Smart Systems ဖန်တီးတာကို အဓိကထားတယ်။
+
+မေး: Mechatronic နဲ့ ဘွဲ့ရပြီဆိုရင် ဘယ်လိုအလုပ်အကိုင်တွေရနိုင်မလဲ?
+ဖြေ: Automation Engineer, Robotics Engineer, Control System Designer, Product Development Engineer စတဲ့ရာထူးတွေအပြင်၊ Manufacturing Industry, Aerospace, Medical Device Company နဲ့ R&D Labs တွေမှာလည်း အလုပ်လုပ်နိုင်တယ်။
+
+မေး: Mechatronics မှာ AI နဲ့ Robotics ကိုလည်း သင်ကြားသလား?
+ဖြေ: ဟုတ်ပါတယ်။ Mechatronics မှာ AI-powered Robotics, Path Planning, Machine Vision တို့ကိုလည်း လေ့လာတယ်။ Deep Learning, Sensor Fusion စတာတွေလည်း ပါဝင်လာတယ်။
+
+မေး: ဘယ်လို Programming ဘာသာစကားတွေ သင်ကြားသလဲ?
+ဖြေ: Mechatronic Engineering မှာ C/C++ ကို Microcontroller Programming အတွက် အဓိကသုံးတယ်။ Python ကို AI, Machine Learning နဲ့ Sensor Data Processing တွေအတွက်သုံးပြီး၊ MATLAB/Simulink ကို Control Systems နဲ့ Simulation လုပ်ရာမှာ အသုံးပြုတယ်။ Arduino IDE, ROS (Robot Operating System) နဲ့ LabVIEW လည်း သင်ကြားတယ်။
+
+မေး: AI နဲ့ IoT ကို ပေါင်းစပ်သုံးသပ်တဲ့သင်ခန်းစာတွေလည်း ပါသလား?
+ဖြေ: ဟုတ်ပါတယ်။ AI နဲ့ IoT ကို ပေါင်းစပ်သုံးသပ်တဲ့ modules တွေလည်း ပါဝင်တယ်။ Smart Home Systems, Industrial Automation Systems, Predictive Maintenance စတဲ့ Practical Use Cases တွေကို သင်ကြားတယ်။ Sensor networks, Wireless Communication (e.g., MQTT, Bluetooth, Wi-Fi) နဲ့ Cloud-based Data Processing တို့လည်း ပါဝင်တယ်။
+
+မေး: Lab Facilities တွေမှာ ဘာတွေရှိလဲ?
+ဖြေ: Mechatronics Lab မှာ
+-Robotic Arms (Programmable)
+- 3D Printers (for rapid prototyping)
+- Arduino & Raspberry Pi Kits
+- PLC Training Kits
+- Microcontroller Dev Boards (ESP32, STM32)
+- Oscilloscopes, Multimeters, Signal Generators
+စတဲ့ Hardware နဲ့ Software Facilities တွေရှိပြီး Practical Projects တွေလုပ်ဖို့အတွက် လုံလောက်တဲ့ Resources တွေ ရှိတယ်။
+
+မေး: အနာဂတ်မှာ Mechatronics ဘာသာရပ်ရဲ့ အရေးပါမှုက ဘယ်လို ဖြစ်လာမလဲ?
+ဖြေ: အနာဂတ်မှာ Industry 4.0, Smart Manufacturing, Autonomous Systems, AI Integration, IoT Devices တို့ရဲ့ကြောင့် Mechatronics ဟာ နည်းပညာပိုင်းရဲ့ ရှေ့ဆုံးလိုင်းမှာရှိလာတယ်။ Robotics, Automation, Smart Factories နဲ့ Intelligent Machines တွေက အနာဂတ်အလုပ်ဈေးကွက်ကို ဦးဆောင်မှာဖြစ်လို့ Mechatronics graduates တွေအတွက် အခွင့်အလမ်းအပြည့်အဝရှိနေတယ်။
+

@@ -1,0 +1,14 @@
+Title: Library
+Library က ကျောင်းဝင်း campus ထဲမှာ သီးသန့်တည်ရှိပါတယ်။ စာအုပ် ငှားဖတ်တာတွေ၊ မေးခွန်းဟောင်းရှာတာတွေအတွက် အဆင်ပြေပါတယ်။ သုံးထပ်ရှိပြီး အပေါ်ဆုံးထပ်ကိုတော့ ပြင်ဆင်မှုတွေ ထပ်လုပ်နေပါတယ်။
+Tags: Library, books, reading, canteen, study
+
+Title: EP Department
+EP ဌာနကတော့ Building 2 ဒုတိယထပ်မှာ ရှိပါတယ်။ မေတ္တာပေါင်းကူး တံတားနဲ့ နီးပါတယ်။
+Tags: EP, Electric Power, Department
+
+Title: TRC (Technological Resource Center)
+ပင်မကျောင်းဆောင်ရဲ့ အပြင်ဘက်မှာ ရှိပါတယ်။ အပြင်ဘက်က လာရင် HRD (Human Resouce Center) ကို အရင်မြင်ရပါတယ်။
+TRC မှာ Electronic, Mechatronic နဲ့ CEIT Department တို့ ရှိပါတယ်။
+Tags: TRC, Technological Resource Center, HRD
+
+
