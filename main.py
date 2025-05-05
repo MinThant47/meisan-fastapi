@@ -28,11 +28,11 @@ def poll_changes():
                 if new_audio == "yes":
                     print(f"Change detected! Triggering `/run`")
                     supabase.table('meisan').update({"new_audio": "no"}).eq("id", 1).execute()
-                    requests.get("http://localhost:8000/run")
+                    requests.get("https://meisan-fastapi.onrender.com/run")
                 if clear_chat == "yes":
                     print(f"Clearing Chat History! Triggering `/clear`")
                     supabase.table('meisan').update({"clear_chat": "no"}).eq("id", 1).execute()
-                    requests.get("http://localhost:8000/clear")
+                    requests.get("https://meisan-fastapi.onrender.com/clear")
         except Exception as e:
             print("Polling error:", e)
         time.sleep(6)
