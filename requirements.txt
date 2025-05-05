@@ -11,6 +11,6 @@ langgraph
 SpeechRecognition
 supabase
 websockets
-request
+requests
 redis
 fastapi[all]
