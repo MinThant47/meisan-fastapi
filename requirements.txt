@@ -12,5 +12,5 @@ SpeechRecognition
 supabase
 websockets
 requests
-redis
+upstash-redis
 fastapi[all]
