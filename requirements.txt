@@ -1,1 +1,16 @@
+langchain
+streamlit
+streamlit-extras
+audio-recorder-streamlit
+langchain-huggingface
+langchain-groq
+langchain-community
+langchain-google-genai
+faiss-cpu
+langgraph
+SpeechRecognition
+supabase
+websockets
+request
+redis
 fastapi[all]
